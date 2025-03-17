@@ -52,6 +52,7 @@
 
   ## :boom: Team Project :boom:
   ### :open_file_folder: To-Do List
+  #### 프로젝트명 : 우주인의 데일리 루틴
   <!--PHP-->
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <!--HTML5-->
@@ -64,6 +65,7 @@
   <br/>
 
   ### :open_file_folder: IgoUgo 여행 정보 게시판
+  #### 프로젝트명 : 내 감! 니 감?
   <!--Laravel-->
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <!--vue.js-->
