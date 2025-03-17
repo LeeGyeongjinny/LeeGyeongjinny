@@ -70,7 +70,7 @@
   <!--vue.js-->
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <br/>
-  ### https://github.com/1st-projec-2jo/team2](https://github.com/kimminju1022/NigamNaegam
+  ### https://github.com/kimminju1022/NigamNaegam
   <br/>
   #### https://112.222.157.156:6535/
   <br/>
