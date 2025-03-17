@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Junior Full stack developer from South Korea.<br/>
-  #### Notion : https://www.notion.so/182e5e9e8eb68039b1d3c18312f8665d
+  <!-- #### Notion : https://www.notion.so/182e5e9e8eb68039b1d3c18312f8665d -->
   <br/>
   <br/>
 
@@ -59,9 +59,8 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
-  🔗 https://github.com/1st-projec-2jo/team2
-  <br/>
-  🔗 http://112.222.157.156:6521/
+  <h4>:computer: https://github.com/1st-projec-2jo/team2</h4>
+  <h4>:pushpin: http://112.222.157.156:6521/</h4>
   <br/>
 
   ### :clap: IgoUgo 여행 정보 게시판
@@ -70,10 +69,8 @@
   <!--vue.js-->
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <br/>
-  🔗 https://github.com/kimminju1022/NigamNaegam
-  <br/>
-  🔗 https://112.222.157.156:6535/
-  
+  <h4>:computer: https://github.com/kimminju1022/NigamNaegam</h4>
+  <h4>:pushpin: https://112.222.157.156:6535/</h4>
   <br/>
   <br/>
   <br/>
