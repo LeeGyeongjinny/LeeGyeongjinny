@@ -59,9 +59,9 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
-  ### https://github.com/1st-projec-2jo/team2
+  🔗 https://github.com/1st-projec-2jo/team2
   <br/>
-  #### http://112.222.157.156:6521/
+  🔗 http://112.222.157.156:6521/
   <br/>
 
   ### :clap: IgoUgo 여행 정보 게시판
@@ -70,9 +70,9 @@
   <!--vue.js-->
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <br/>
-  ### https://github.com/kimminju1022/NigamNaegam
+  🔗 https://github.com/kimminju1022/NigamNaegam
   <br/>
-  #### https://112.222.157.156:6535/
+  🔗 https://112.222.157.156:6535/
   <br/>
   <br/>
   <br/>
