@@ -59,6 +59,8 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
+  ### https://github.com/1st-projec-2jo/team2
+  <br/>
   #### http://112.222.157.156:6521/
   <br/>
 
@@ -67,6 +69,8 @@
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <!--vue.js-->
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <br/>
+  ### https://github.com/1st-projec-2jo/team2](https://github.com/kimminju1022/NigamNaegam
   <br/>
   #### https://112.222.157.156:6535/
   <br/>
