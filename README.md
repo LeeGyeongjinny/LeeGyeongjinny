@@ -72,7 +72,8 @@
   <br/>
   🔗 https://github.com/kimminju1022/NigamNaegam
   <br/>
-  🔗 https://112.222.157.156:6535/
+  🔗 [사이트](https://112.222.157.156:6535/)
+  
   <br/>
   <br/>
   <br/>
