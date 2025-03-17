@@ -67,7 +67,7 @@
   <!--Laravel-->
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <!--vue.js-->
-  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <br/>
   <h4>:computer: https://github.com/kimminju1022/NigamNaegam</h4>
   <h4>:pushpin: https://112.222.157.156:6535/</h4>
