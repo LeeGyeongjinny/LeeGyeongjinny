@@ -51,7 +51,7 @@
   
 
   ## :boom: Team Project :boom:
-  ### :clap: To-Do List
+  ### :open_file_folder: To-Do List
   <!--PHP-->
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <!--HTML5-->
@@ -63,7 +63,7 @@
   <h4>:pushpin: http://112.222.157.156:6521/</h4>
   <br/>
 
-  ### :clap: IgoUgo 여행 정보 게시판
+  ### :open_file_folder: IgoUgo 여행 정보 게시판
   <!--Laravel-->
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <!--vue.js-->
